@@ -18,7 +18,7 @@ header
  align-items: center;
 }
 
-header img
+header .danger
 {
    width: 200px;
    border-radius: 50%;
@@ -65,6 +65,11 @@ h4
 .player
 {
     margin-top: 10px;
+}
+
+.party
+{
+    width: 100px;
 }
 
 
