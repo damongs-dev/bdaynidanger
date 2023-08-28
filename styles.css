@@ -57,14 +57,17 @@ h4
 
 .gift-img:hover
 {
-
-    
     background-image: url(img/danger2.jpg);
     background-size: 70px;
     background-position: center;
-    
-
 }
+
+.player
+{
+    margin-top: 10px;
+}
+
+
 
 
 
